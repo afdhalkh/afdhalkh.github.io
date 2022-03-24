@@ -24,14 +24,14 @@
   transform: translateY(4px);
 }
     </style>
-    <link rel="shortcut icon" type="image/png" href="Favicon.png"/>
+    <link rel="shortcut icon" type="image/png" href="https://downthumbnail.000webhostapp.com/avicon.png"/>
       <style>img[alt="www.000webhost.com"]{display:none;}</style>
   <base href="https://downthumbnail.000webhostapp.com/">      
   <meta charset="UTF-8">
   <meta name="description" content="This is where you download youtube Thumbnails.">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Download YouTube Video Thumbnail</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://downthumbnail.000webhostapp.com/tyle.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 </head>
@@ -133,4 +133,4 @@ const analytics = getAnalytics(app);
     }
 </style>
 <style>.footer,.generic-footer{margin-bottom:98px}@media (min-width:374px){.footer,.generic-footer{margin-bottom:78px}}@media (min-width:546px){.footer,.generic-footer{margin-bottom:56px}}@media (min-width:1055px){.footer,.generic-footer{margin-bottom:0}}.disclaimer{position:fixed;z-index:9999999;bottom:0;right:0;border-top:2px solid #ff5c62;text-align:center;font-size:14px;font-weight:400;background-color:#fff;padding:5px 10px 5px 10px}.disclaimer a:hover{text-decoration:underline}@media (min-width:1052px){.disclaimer{text-align:right;border-left:2px solid red;border-top-left-radius:10px}}@media (min-width:1920px){.disclaimer{width:60%}}</style><div class="disclaimer">We support Ukraine and condemn war. Push Russian government to act against war. Be brave, vocal and show your support to Ukraine. Follow the latest news <a title="https://www.bbc.com/news/live/world-europe-60517447" target="_blank" href="https://www.bbc.com/news/live/world-europe-60517447" style="color: black;"><b>HERE</b></a></div></body>
-</html>
+
